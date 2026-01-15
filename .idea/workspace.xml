@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="" />
+    <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classCode/classCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge/src/challenge44.java" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge/src/challenge44.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -54,6 +63,7 @@
     "Application.TestingDistinct.executor": "Run",
     "Application.TestingMethodRefernces.executor": "Run",
     "Application.TestingSorting.executor": "Run",
+    "Application.Time.executor": "Run",
     "Application.UniqueCharacter.executor": "Run",
     "Application.accessTest.executor": "Run",
     "Application.arithmaticoperator.executor": "Run",
@@ -61,7 +71,9 @@
     "Application.arrayinJava.executor": "Run",
     "Application.arrayindexwithloop.executor": "Run",
     "Application.assignment.executor": "Run",
+    "Application.average.executor": "Run",
     "Application.calculator.executor": "Run",
+    "Application.challenge48.executor": "Run",
     "Application.challenge81.EqualsAndhashCodeTest.executor": "Run",
     "Application.challengeforme.executor": "Run",
     "Application.challengefunction.executor": "Run",
@@ -172,9 +184,11 @@
     "Application.whileloopreverse.executor": "Run",
     "Application.writter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/divya/Documents/myjava/java/Challenge",
-    "onboarding.tips.debug.path": "C:/Users/divya/Documents/myjava/java/12 functional programming/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/divya/Documents/myjava/java/classCode/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -193,39 +207,13 @@
       <recent name="com.example.challenge93" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalTest">
+  <component name="RunManager" selected="Application.challenge48">
     <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.challenge115.FinalTest" />
       <module name="Challenge" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.challenge115.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.challenge112.OptionalString" />
-      <module name="Challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.challenge112.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestingDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.challenge113.TestingDistinct" />
-      <module name="Challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.challenge113.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,26 +234,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testingFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.challenge111.testingFactorial" />
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Time" />
+      <module name="classCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="average" />
+      <module name="classCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="challenge48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge48" />
       <module name="Challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.challenge111.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.challenge48" />
+        <item itemvalue="Application.average" />
+        <item itemvalue="Application.Time" />
         <item itemvalue="Application.FinalTest" />
         <item itemvalue="Application.TestingSorting" />
-        <item itemvalue="Application.TestingDistinct" />
-        <item itemvalue="Application.OptionalString" />
-        <item itemvalue="Application.testingFactorial" />
       </list>
     </recent_temporary>
   </component>

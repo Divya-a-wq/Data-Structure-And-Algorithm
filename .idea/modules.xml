@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/1 java Basics/1 java Basics.iml" filepath="$PROJECT_DIR$/1 java Basics/1 java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/10 collection And Generics/10 collection And Generics.iml" filepath="$PROJECT_DIR$/10 collection And Generics/10 collection And Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/11 multithreading and executor service/11 multithreading and executor service.iml" filepath="$PROJECT_DIR$/11 multithreading and executor service/11 multithreading and executor service.iml" />
@@ -43,6 +44,11 @@
       <module fileurl="file://$PROJECT_DIR$/cpntol statement main and string/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/cpntol statement main and string/untitled3/untitled3.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 Control Statement Main And String/untitled4/untitled4.iml" filepath="$PROJECT_DIR$/4 Control Statement Main And String/untitled4/untitled4.iml" />
       <module fileurl="file://$PROJECT_DIR$/6 Object And Class/usingObject/usingObject.iml" filepath="$PROJECT_DIR$/6 Object And Class/usingObject/usingObject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA with java apna college.iml" filepath="$PROJECT_DIR$/.idea/DSA with java apna college.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Basics/Java_Basics.iml" filepath="$PROJECT_DIR$/Java_Basics/Java_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
     </modules>
   </component>
 </project>

@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="" />
 =======
     <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="">
@@ -15,6 +16,9 @@
       <change beforePath="$PROJECT_DIR$/Challenge/src/challenge44.java" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge/src/challenge44.java" afterDir="false" />
     </list>
 >>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
+=======
+    <list default="true" id="22b09b34-5355-48aa-8b1e-c672eca8a193" name="Changes" comment="" />
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +27,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Enum" />
         <option value="Interface" />
+=======
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
         <option value="Class" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,12 +44,19 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2o9OlIfuoeklJmfw5j2EvVuVjSR" />
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="37EfRXKTfKHlAQSIy5VDhfD9IwN" />
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "Application.ArithmeticExceptionHandling.executor": "Run",
     "Application.BreakAndContinue.executor": "Run",
     "Application.Car (1).executor": "Run",
@@ -344,6 +359,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730278481845</updated>
+=======
+    "Application.SumofAandB.executor": "Run",
+    "Application.areaOfCircle.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.input.executor": "Run",
+    "Application.right_Angle_triangle.executor": "Run",
+    "Application.trianglePattern.executor": "Run",
+    "Application.typePromotion.executor": "Run",
+    "Application.typecasting.executor": "Run",
+    "Application.variable.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/divya/Documents/DSA with java apna college",
+    "onboarding.tips.debug.path": "C:/Users/divya/Documents/DSA with java apna college/Pattern/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b09b34-5355-48aa-8b1e-c672eca8a193" name="Changes" comment="" />
+      <created>1766473143405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766473143405</updated>
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
     </task>
     <servers />
   </component>
@@ -351,6 +391,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
@@ -524,6 +565,27 @@
           </properties>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+=======
+          <url>file://$PROJECT_DIR$/java_Basics/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_Basics/src/main/java/org/example/Main.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_Basics/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pattern/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+>>>>>>> 51ce62a793b5f6fb24aeb4449218b0712b5db21f
       </breakpoints>
     </breakpoint-manager>
   </component>
